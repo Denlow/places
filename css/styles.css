@@ -1,0 +1,12 @@
+#show-place {
+  display: none;
+}
+
+.placeName {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.placeName:hover {
+  text-decoration: line-through;
+}
