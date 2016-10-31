@@ -35,3 +35,8 @@ input {
 #show-place {
   padding: 10%;
 }
+
+
+#places-list, #show-place {
+  text-transform: capitalize;
+}
